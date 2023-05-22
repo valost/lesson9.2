@@ -17,7 +17,9 @@ body {
 }
 
 .wrapper {
-
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .header {
@@ -28,4 +30,24 @@ body {
 
 }
 
-.header-wrapper
+.header-wrapper {
+
+}
+
+.nav-a-wrapper {
+
+}
+
+.menu li {
+    list-style: none;
+}
+
+.template_button {
+
+}
+
+.bg-1 {
+    background: url(/image/main-background-1.jpg) 0 0 no-repeat;
+    height: 716px;
+    /* background-size: cover; */
+}
