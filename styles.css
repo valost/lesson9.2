@@ -127,5 +127,13 @@ body {
 
 .block-1-icons {
     position: absolute;
+    bottom: 0;
+    right: 0;
     display: flex;
+    margin-bottom: 25px;
+    margin-right: 40px;
+}
+
+.corner-icons {
+    margin-right: 16px;
 }
