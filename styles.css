@@ -184,18 +184,50 @@ body {
     gap: 16px;
 }
 
+/*** ARTICLE-1 ***/
 .block-2-article-1 {
 
 }
 
+.block-2-article-1-post {
+    
+}
+
+.b2-a1-cat {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    color: #fff;
+}
+
+.b2-a1-descr {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #c0c0c0;
+
+}
+
+.article_1_button {
+
+}
+/*** ***/
+
+
+/*** ARTICLE-2 ***/
 .block-2-article-2 {
     
 }
 
+/*** ARTICLE-3 ***/
 .block-2-article-3 {
     
 }
 
+/*** ARTICLE-4 ***/
 .block-2-article-4 {
     
 }
