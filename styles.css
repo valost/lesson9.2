@@ -21,45 +21,28 @@ body {
     margin: auto;
 }
 
-/*
 .header {
-    
-}
-*/
-
-.container-header {
     position: relative;
     background: #000;
     max-width: 1440px;
     height: 90px;
 }
 
-.header-wrapper {
-    position: absolute;
-    display: flex;
-	align-items: center;
-	padding: 30px 0;
-    margin-left: 84px;
-    margin-right: 140px;
-    margin-top: 27px;
-}
-
 .logo {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 27px;
+    left: 84px;
 }
 
-.nav-a-wrapper {
+.nav-wrapper {
     position: absolute;
-    right: 0;
-    width: 706px;
-
+    top: 35px;
+    right: 328px;
 }
 
 .menu {
-    /*display: flex;
-	gap: 40px; */
+    display: flex;
+	gap: 40px;
 }
 
 .menu li {
@@ -76,6 +59,9 @@ body {
 }
 
 .template_button {
+    position: absolute;
+    top: 24px;
+	right: 141px;
     font-family: 'Poppins';
     font-size: 16px;
     font-weight: 400;
