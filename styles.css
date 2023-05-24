@@ -141,6 +141,40 @@ body {
 .container-block-2 {
     position: relative;
     background-color: #000;
-    text-align: center;
-    color: #fff;
+    /*text-align: center;
+    color: #fff;*/
+    max-width: 1440px;
+    height: 1573px;
+}
+
+.block-2-text {
+
+}
+
+.block-2-title {
+
+}
+
+.block-2-description {
+
+}
+
+.block-2-articles {
+
+}
+
+.block-2-article-1 {
+
+}
+
+.block-2-article-2 {
+    
+}
+
+.block-2-article-3 {
+    
+}
+
+.block-2-article-4 {
+    
 }
