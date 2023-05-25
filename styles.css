@@ -128,16 +128,12 @@ body {
 
 .block-1-icons {
     position: absolute;
-    bottom: 0;
-    right: 0;
+    bottom: 25px;
+    right: 40px;
     display: flex;
-    margin-bottom: 25px;
-    margin-right: 40px;
+    gap: 16px;
 }
 
-.corner-icons {
-    margin-right: 16px;
-}
 
 /*** BLOCK_2 ******************************************************************/
 
