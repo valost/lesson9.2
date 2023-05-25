@@ -21,7 +21,7 @@ body {
     margin: auto;
 }
 
-/*** HEADER ***/
+/*** HEADER ******************************************************************/
 
 .header {
     position: relative;
@@ -80,12 +80,15 @@ body {
     
 }
 
-/*** BLOCK_1 ***/
+/*** BLOCK_1 ********************************************************************/
 
 .container-block-1 {
     position: relative;
     text-align: center;
     color: #fff;
+    background-image: url("image/block-1-background.jpg");
+    height: 716px;
+
 }
 
 .block-1-content {
@@ -136,7 +139,7 @@ body {
     margin-right: 16px;
 }
 
-/*** BLOCK_2 ***/
+/*** BLOCK_2 ******************************************************************/
 
 .container-block-2 {
     position: relative;
