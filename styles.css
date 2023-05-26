@@ -146,11 +146,11 @@ body {
     padding-top: 120px;
 }
 
-.block-2-text {
+/* .block-2-text {
     /*position: absolute;
     top: 113px;
-    left: 596px;*/
-}
+    left: 596px;
+} */
 
 .block-2-title {
     font-family: 'Poppins';
@@ -343,4 +343,35 @@ body {
     margin-left: 30px;
 
 }
+/*** ***/
+
+
+/*** BLOCK_2 ******************************************************************/
+
+.container-block-3 {
+    position: relative;
+    max-width: 1440px;
+    height: 600px;
+    background-image: url("image/block-3-background.jpg");
+}
+
+.block-3-content {
+    position: absolute;
+    top: ;
+    right: ;
+    /*transform: translate(-50%, -50%);*/
+}
+
+.block-3-category {
+
+}
+
+.block-3-text {
+
+}
+
+.block-3-icons {
+
+}
+
 /*** ***/
