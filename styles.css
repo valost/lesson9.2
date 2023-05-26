@@ -199,7 +199,7 @@ body {
     border-radius: 13px;
 }
 
-.article-hyperlink {
+.b2-article-hyperlink {
     position: absolute;
     font-family: Poppins;
     font-size: 15px;
@@ -390,3 +390,44 @@ body {
 
 /*** ***/
 /*** BLOCK_4 ******************************************************************/
+
+.container-block-4 {
+    position: relative;
+    max-width: 1440px;
+    height: 540px;
+}
+
+.block-4-content {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block-4-left-side {
+    height: 540px;
+    width: 720px;
+    background-color: #000;
+}
+
+.block-4-category {
+
+}
+
+.block-4-title {
+
+}
+
+.block-4-intro {
+
+}
+
+.block-4-right-side {
+
+}
+
+.block-4-icons {
+
+}
+
+/*** ***/
+/*** BLOCK_5 ******************************************************************/
