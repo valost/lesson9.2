@@ -422,12 +422,62 @@ body {
 }
 
 .block-4-right-side {
-
+    background-image: url("image/block-4-background.jpg");
+    height: 540px;
+    width: 720px;
 }
 
 .block-4-icons {
-
+    position: absolute;
+    bottom: 40px;
+    right: 38px;
+    display: flex;
+    gap: 16px;
 }
 
 /*** ***/
 /*** BLOCK_5 ******************************************************************/
+
+.container-block-5 {
+    position: relative;
+    max-width: 1440px;
+    height: 600px;
+    background-image: url("image/block-5-background.jpg");
+}
+
+.block-5-content {
+    position: absolute;
+    top: 260px;
+    right: 60px;
+    /*transform: translate(-50%, -50%);*/
+}
+
+.block-5-category {
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.block-5-text {
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #c0c0c0;
+}
+
+.block-5-icons {
+    position: absolute;
+    bottom: 40px;
+    right: 38px;
+    display: flex;
+    gap: 16px;
+}
+
+/*** ***/
+/*** BLOCK_5 ******************************************************************/
+
